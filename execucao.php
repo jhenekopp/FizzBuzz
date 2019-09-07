@@ -2,6 +2,7 @@
 
 require './funcao.php';
 
+$chamando = new Execucao();
 class Execucao {
 	
 	public function multiploFizz(){
